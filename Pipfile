@@ -8,9 +8,9 @@ alibi = "*"
 matplotlib = "*"
 numpy = "*"
 tensorflow = "*"
+seldon-core = "*"
 
 [dev-packages]
-seldon-core = "*"
 
 [requires]
 python_version = "3.8"
